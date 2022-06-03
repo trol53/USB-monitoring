@@ -1,0 +1,7 @@
+SnmpServer:
+  ip: 172.20.240.2
+  port: 1162
+
+Products:
+  Product: 9da/fa0
+  Product: 30de/1544 
