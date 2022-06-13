@@ -18,7 +18,7 @@ public:
 
 private:
 
-    std::string file_name = "/home/Trol53/diploma/file.txt";
+    std::string file_name = "/etc/usb_monitor/file.txt";
     std::ifstream file;
     Dev device;
 

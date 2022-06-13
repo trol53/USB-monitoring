@@ -16,8 +16,8 @@ public:
     void Run();
 
 private:
-    std::string dev_info_gen_script = "/home/Trol53/diploma/script.sh";
-    std::string netstat_script = "/home/Trol53/diploma/script1.sh";
+    std::string dev_info_gen_script = "/etc/usb_monitor/dev_info.sh";
+    std::string netstat_script = "/etc/usb_monitor/netstat.sh";
     Dev device;
     Settings set;
 
